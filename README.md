@@ -1,1 +1,2 @@
-# TP 26 : Microservice observable & résilient avec MySQL + Actuator + Profiles + Wait Strategy + Resilience4j + Multi-instances
+# Video Demo
+https://drive.google.com/file/d/12FctFqFU6WbvDvoqxQangicj6HENWDlq/view?usp=sharing
